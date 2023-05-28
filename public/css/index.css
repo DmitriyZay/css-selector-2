@@ -31,7 +31,7 @@ background: green;
 .lesson-four-task-nine p:lang(uk){
 	color: blue;
 }
-.lesson-four-task-ten .form-control:read-write{
+.lesson-four-task-ten .form-control:enabled{
 	color: red;
 	background: yellow;
 }
